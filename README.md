@@ -26,7 +26,11 @@ Technologies Used
 3) JAVASCRIPT-giving functionality of buttons.
 
 OUTPUT:
-<img width="852" alt="image" src="https://github.com/Mani-557/CODTECH-Task-1/assets/115940141/f1c35207-7da3-48c3-8ce1-c7cf14cee5c3">
+
+![Screenshot 2024-06-25 093848](https://github.com/Mani-557/CODTECH-Task-1/assets/115940141/232ccc73-27d2-4243-aee8-cb45462a926a)
+
+
+
 
 
 
